@@ -22,7 +22,7 @@
   d = !git --no-pager diff
   dt  = difftool
   stat = !git --no-pager diff --stat
-  all =  !git add . | git commit -m ":sparkles:" | git push origin
+  all =  !git add . && git commit -m ":sparkles:" && git push origin
   po = push origin
 
   # Clean merged branches
