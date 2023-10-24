@@ -27,7 +27,6 @@
     "workbench.settings.editor": "json",
     "workbench.settings.openDefaultSettings": true,
     "workbench.settings.useSplitJSON": true,
-    "workbench.iconTheme": "vscode-great-icons",
     "files.hotExit": "off",
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
@@ -76,5 +75,7 @@
         "rubocop": true
     },
     "workbench.startupEditor": "newUntitledFile",
-    "security.workspace.trust.untrustedFiles": "open"
+    "security.workspace.trust.untrustedFiles": "open",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.iconTheme": "vscode-great-icons"
 }

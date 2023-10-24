@@ -52,6 +52,7 @@
 
 [pull]
   rebase = false
+
 [user]
-	email = paul.lemercier05@gmail.com
-	name = Paul Le Mercier
+name = Paul Le Mercier
+email = paul.lemercier05@gmail.com
